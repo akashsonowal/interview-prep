@@ -1,8 +1,7 @@
 # Data Structures
 
-Problem: [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-
 ## Arrays
+[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Linked Lists
 
@@ -27,6 +26,7 @@ Problem: [longest-substring-without-repeating-characters](https://leetcode.com/p
 
 
 ## Dynamic Programming
+[longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## Sorting
 
