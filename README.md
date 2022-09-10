@@ -1,10 +1,11 @@
 # Data Structures
 
 ## Arrays
-|Problem Link | Platform | Level | Solution |
-|[best-time-to-buy-and-sell-stock-ii] (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Easy | |
-|[rotate-image] (https://leetcode.com/problems/rotate-image/) | LeetCode | Medium | |
-|[first-missing-positive] (https://leetcode.com/problems/first-missing-positive/)| LeetCode | Hard | |
+| Problem Link | Platform | Level | Solution |
+| --- | --- | --- | --- |
+| [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Easy | |
+| [rotate-image](https://leetcode.com/problems/rotate-image/) | LeetCode | Medium | |
+| [first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| LeetCode | Hard | |
 
 ## Linked Lists
 
