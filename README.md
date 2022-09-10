@@ -23,6 +23,8 @@
 ## Recursion
 
 ## Greedy Algorithms
+
+## Two Pointer
 [container-with-most-water](https://leetcode.com/problems/container-with-most-water/)
 
 ## Dynamic Programming
