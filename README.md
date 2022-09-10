@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Language](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org)
 ![](https://img.shields.io/github/issues/akashsonowal/coding-with-akash?style=plastic)
 ![](https://img.shields.io/github/forks/akashsonowal/coding-with-akash)
 ![](https://img.shields.io/github/stars/akashsonowal/coding-with-akash)
