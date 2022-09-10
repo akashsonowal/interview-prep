@@ -1,6 +1,10 @@
 # Data Structures
 
 ## Arrays
+|Problem Link | Platform | Level | Solution |
+|[best-time-to-buy-and-sell-stock-ii] (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Easy | |
+|[rotate-image] (https://leetcode.com/problems/rotate-image/) | LeetCode | Medium | |
+|[first-missing-positive] (https://leetcode.com/problems/first-missing-positive/)| LeetCode | Hard | |
 
 ## Linked Lists
 
@@ -8,7 +12,6 @@
 ## Stacks & Queues
 
 ## Hash Maps
-[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Trees
 
@@ -24,11 +27,7 @@
 
 ## Greedy Algorithms
 
-## Two Pointer
-[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)
-
 ## Dynamic Programming
-[longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## Sorting
 
