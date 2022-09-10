@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/issues/akashsonowal/coding-with-akash?style=plastic)
+![](https://img.shields.io/github/license/akashsonowal/coding-with-akash)
 
 # Data Structures
 
