@@ -1,7 +1,6 @@
 # Data Structures
 
 ## Arrays
-[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Linked Lists
 
@@ -9,6 +8,7 @@
 ## Stacks & Queues
 
 ## Hash Maps
+[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Trees
 
