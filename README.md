@@ -9,9 +9,6 @@
 ## Arrays
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
-| [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Easy | |
-| [rotate-image](https://leetcode.com/problems/rotate-image/) | LeetCode | Medium | |
-| [first-missing-positive](https://leetcode.com/problems/first-missing-positive/)| LeetCode | Hard | |
 
 ## Linked Lists
 
@@ -28,13 +25,19 @@
 
 ## Graphs
 
+## Dynamic Programming
+| Problem Link | Platform | Level | Solution (in Python) Link |
+| --- | --- | --- | --- |
+| [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | LeetCode | Easy | |
+
+
 # Algorithms
 
 ## Recursion
 
 ## Greedy Algorithms
 
-## Dynamic Programming
+
 
 ## Sorting
 
