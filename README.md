@@ -10,7 +10,12 @@
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | |
+| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | LeetCode | Easy | |
+| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | LeetCode | Easy | |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode | Medium | |
+
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | |
 
 ## Linked Lists
