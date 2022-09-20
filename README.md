@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/stars/akashsonowal/coding-with-akash)
 ![](https://img.shields.io/github/license/akashsonowal/coding-with-akash)
 
-# Data Structures
+# Data Structures & Algorithms
 
 ## Arrays
 | Problem Link | Platform | Level | Solution (in Python) Link |
@@ -21,6 +21,9 @@
 
 
 ## Stacks & Queues
+
+## Recursion
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | | Sorting |
 
 ## Hash Maps
 
@@ -40,7 +43,7 @@
 
 # Algorithms
 
-## Recursion
+
 
 ## Greedy Algorithms
 
