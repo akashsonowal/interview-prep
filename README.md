@@ -9,7 +9,7 @@
 ## Arrays
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | [O(n)](https://github.com/akashsonowal/coding-with-akash/blob/main/Arrays/Easy/two_sum.py) |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | |
 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | LeetCode | Easy | |
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | LeetCode | Easy | |
