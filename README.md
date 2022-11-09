@@ -57,6 +57,28 @@ def fib(n):
   else:
     return fib(n-1) + fib (n-2)
 ```
+reptitive calls leads to undesirable exponential runtime and memory usage. Recursive calls are stored on stack and there is limited allocated memory for a program.
+
+## Interation
+
+There is no overwheming of call stack.
+
+```
+def fib(n):
+  if n == 0:
+    return 0
+  elif n == 1 or n == 2:
+    return 1
+  else:
+    prev2 = 0 # fib(n - 2)
+    prev = 1 # fib(n - 1)
+    res = 0 # fib(n)
+    for i in range(1, n): #process iteratively
+      res = prev + prev2
+      prev2 = prev
+      prev = res
+    return res
+```
 
 
 
