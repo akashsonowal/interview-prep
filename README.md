@@ -48,7 +48,7 @@
 
 ## Recursion
 
-'''
+```
 def fib(n):
   if n == 0: #base case
     return 0
@@ -56,7 +56,7 @@ def fib(n):
     return 1
   else:
     return fib(n-1) + fib (n-2)
-'''
+```
 
 
 
