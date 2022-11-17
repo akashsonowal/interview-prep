@@ -106,6 +106,13 @@ info_gains = [getInfoGains(feature) for feature in features]
 best_feature_index = np.argmax(info_gains)
 best_feature = features[best_feature_index]
 ```
+For optimization problem, use greedy when there's an obvious set of choices to select from and it's easy to know what the appropriate choice is.
+
+Note: It is easy to reason about a greedy algorithm recursively, but then implement it later iteratively for better memory performance.
+
+## Dynamic Programming
+
+
 ## Sorting
 
 
