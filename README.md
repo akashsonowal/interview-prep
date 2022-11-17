@@ -79,12 +79,26 @@ def fib(n):
       prev = res
     return res
 ```
-
-
-
 ## Greedy Algorithms
 
+At each step choose best option.
 
+Making change with the minimum number of coins
+
+```
+def minCoins(k):
+  coins = [1, 5, 10, 25] #pennies, nickles, dimes, quarters
+  n = len(coins) #we have 4 coins of different denominations. We can use as many from each of them.
+  res = []
+  i = n - 1 #start at last index
+  while(i >= 0  and k >= 0):
+    if k >= coins[i]:
+      k -= coins[i]
+      res.append(coins[i])
+    else:
+      i -= 1
+  return res
+```
 
 ## Sorting
 
