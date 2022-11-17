@@ -88,7 +88,7 @@ Making change with the minimum number of coins
 ```
 def minCoins(k):
   coins = [1, 5, 10, 25] #pennies, nickles, dimes, quarters
-  n = len(coins) #we have 4 coins of different denominations. We can use as many from each of them.
+  n = len(coins) #we have 4 different denominations of coins. We can use as many from each of them.
   res = []
   i = n - 1 #start at last index
   while(i >= 0  and k >= 0):
@@ -100,6 +100,12 @@ def minCoins(k):
   return res
 ```
 
+In ML, decision trees are split in a greedy manner to maximise information gain (reduction in entropy based on feature chosen) at each split. For every feature, we evaluate all features, then in a greedy fashion, choose the feature with the best information gain to split on next. This repeats until we end up with leaf nodes.
+```
+info_gains = [getInfoGains(feature) for feature in features]
+best_feature_index = np.argmax(info_gains)
+best_feature = features[best_feature_index]
+```
 ## Sorting
 
 
