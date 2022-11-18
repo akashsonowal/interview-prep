@@ -112,6 +112,19 @@ Note: It is easy to reason about a greedy algorithm recursively, but then implem
 
 ## Dynamic Programming
 
+Dynamic Programming speeds up recursion (storing results of subproblems)
+
+```
+dp = [0] * 1000
+
+def fib(n):
+  if n == o or n == 1:
+    return n
+  else:
+    dp[n] = fib(n-1) + fib(n-2)
+    return dp[n]
+```
+
 
 ## Sorting
 
