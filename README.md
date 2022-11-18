@@ -124,7 +124,35 @@ def fib(n):
     dp[n] = fib(n-1) + fib(n-2)
     return dp[n]
 ```
+For DP two properties needs to be satisfied:
+1. Optimal substructure (i.e., problem can be broken down)
+2. Overlapping subproblems (i.e., reusable in other subproblems)
 
+Solved using:
+1. Top-Down: start from final (recursion)
+2. Bottom-Up: start from simplest use case (iterative)
+
+```
+Bottom up Approach
+
+def fib(n):
+  dp = [0 for _ in range(n+1)]
+  dp[1] = 1
+  for i in range(2, n+1):
+    dp[i] = dp[i-1] + dp[i-2]
+   return dp[n]
+```
+Example of dynamic programming is reinforcement learning (Bellman equation).
+
+## Greedy Algorithms vs Dynamic Programming
+
+Greedy Algorithms always does local optimization while dynamic programming is always guaranteed to find the globally optimal solution because it exhaust the search space.
+
+```
+0/1 Knapsack problem
+
+
+```
 
 ## Sorting
 
