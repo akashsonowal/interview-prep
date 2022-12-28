@@ -6,7 +6,7 @@
 
 # Data Structures & Algorithms
 
-## Arrays
+## 01. Arrays
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | [O(n)](https://github.com/akashsonowal/coding-with-akash/blob/main/Arrays/Easy/two_sum.py) |
@@ -17,7 +17,7 @@
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode | Medium | |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | |
 
-## Linked Lists
+## 02. Linked Lists
 
 
 ## Stacks & Queues
