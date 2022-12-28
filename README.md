@@ -156,4 +156,41 @@ Greedy Algorithms always does local optimization while dynamic programming is al
 
 ## Sorting
 
+## Basic Problem Solving Techniques
+- Time Complexity Analysis
+- Arrays
+- Bit Manipulation
+- Maths
+- Recursion & Sorting
+- Binary Search & 2 Pointers
+- Hashing
+- Pattern Matching Algorithms
+
+## Data Structures
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Tries & Heaps
+
+## Advanced Problem Solving Techniques
+- Greedy Algorithms
+- Backtracking
+- Dynamic Programming
+- Graphs
+
+## Programming Language Internals
+- Data Types and Syntax
+- Programming Paradigms for the Language
+- Collections framework/ standard library
+- Concurrency
+- Advanced Concepts and Common Pitfalls
+
+## DBMS
+- SQL
+
+## Operating Systems
+- Concurrency & Synchronization
+
+## Computer Networks
+- Socket Programming
 
