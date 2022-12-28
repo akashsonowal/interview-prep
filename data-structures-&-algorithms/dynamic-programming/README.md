@@ -31,3 +31,9 @@ def fib(n):
    return dp[n]
 ```
 Example of dynamic programming is reinforcement learning (Bellman equation).
+
+## 1-D Dynamic Programming
+
+| Problem Link | Platform | Level | Solution (in Python) Link |
+| --- | --- | --- | --- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | [O(n)](https://github.com/akashsonowal/coding-with-akash/blob/main/Arrays/Easy/two_sum.py) |
