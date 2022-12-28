@@ -1,0 +1,33 @@
+## Dynamic Programming
+
+Dynamic Programming speeds up recursion (storing results of subproblems)
+
+```
+dp = [0] * 1000
+
+def fib(n):
+  if n == o or n == 1:
+    return n
+  else:
+    dp[n] = fib(n-1) + fib(n-2)
+    return dp[n]
+```
+For DP two properties needs to be satisfied:
+1. Optimal substructure (i.e., problem can be broken down)
+2. Overlapping subproblems (i.e., reusable in other subproblems)
+
+Solved using:
+1. Top-Down: start from final (recursion)
+2. Bottom-Up: start from simplest use case (iterative)
+
+```
+Bottom up Approach
+
+def fib(n):
+  dp = [0 for _ in range(n+1)]
+  dp[1] = 1
+  for i in range(2, n+1):
+    dp[i] = dp[i-1] + dp[i-2]
+   return dp[n]
+```
+Example of dynamic programming is reinforcement learning (Bellman equation).
