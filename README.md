@@ -4,39 +4,11 @@
 ![](https://img.shields.io/github/stars/akashsonowal/coding-with-akash)
 ![](https://img.shields.io/github/license/akashsonowal/coding-with-akash)
 
-# Data Structures & Algorithms
-
-## 01. Arrays
-| Problem Link | Platform | Level | Solution (in Python) Link |
-| --- | --- | --- | --- |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | [O(n)](https://github.com/akashsonowal/coding-with-akash/blob/main/Arrays/Easy/two_sum.py) |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | Easy | |
-| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | LeetCode | Easy | |
-| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | LeetCode | Easy | |
-| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | |
-| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode | Medium | |
-| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | Hard | |
-
-## 02. Linked Lists
-
-
-## Stacks & Queues
-
 ## Recursion
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
 | [Kth Largest Element in an Array (Sorting)](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | | 
 | [Find First and Last Position of Element in Sorted Array (Binary Search)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | | 
-
-## Hash Maps
-
-## Trees
-
-## Binary Search Trees
-
-## Heaps
-
-## Graphs
 
 # Algorithms
 
