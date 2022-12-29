@@ -38,12 +38,6 @@
 
 ## Graphs
 
-## Dynamic Programming
-| Problem Link | Platform | Level | Solution (in Python) Link |
-| --- | --- | --- | --- |
-| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LeetCode | Easy | |
-
-
 # Algorithms
 
 ## Recursion
