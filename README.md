@@ -4,12 +4,6 @@
 ![](https://img.shields.io/github/stars/akashsonowal/coding-with-akash)
 ![](https://img.shields.io/github/license/akashsonowal/coding-with-akash)
 
-## Recursion
-| Problem Link | Platform | Level | Solution (in Python) Link |
-| --- | --- | --- | --- |
-| [Kth Largest Element in an Array (Sorting)](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | | 
-| [Find First and Last Position of Element in Sorted Array (Binary Search)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | | 
-
 # Algorithms
 
 ## Recursion
