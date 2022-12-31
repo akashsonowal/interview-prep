@@ -6,6 +6,7 @@
 
 # Data Structures & Algorithms
 
+## Data Structures
 - Array
 - Stack
 - Queue
@@ -13,7 +14,7 @@
 - Trees
 - Hashing Techniques
 
-# Algorithms
+## Algorithms
 - Divide & Conquer
 - Greedy Techniques
 - Graph Based Algorithms
