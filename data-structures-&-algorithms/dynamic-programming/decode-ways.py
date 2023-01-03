@@ -1,7 +1,7 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
       
-        #Memoization / Recursive (bottom up)
+        #Memoization / Recursive
         # dp = {len(s) : 1}
 
         # def dfs(i):
@@ -17,7 +17,7 @@ class Solution:
         
         # return dfs(0)
 
-        #Dynamic Programming
+        #Dynamic Programming (bottom up)
         dp = {len(s): 1}
         
         for i in range(len(s)-1, -1, -1):
