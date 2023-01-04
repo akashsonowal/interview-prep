@@ -1,3 +1,5 @@
+#O(n) time | O(n) space
+
 class Solution:
     def numDecodings(self, s: str) -> int:
       
