@@ -43,6 +43,7 @@ Example of dynamic programming is reinforcement learning (Bellman equation).
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | LeetCode | Medium
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | LeetCode | Medium
+| [Coin Change](https://leetcode.com/problems/coin-change/) | LeetCode | Medium
 
 ## 2-D Dynamic Programming
 
