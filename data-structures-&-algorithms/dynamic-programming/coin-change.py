@@ -1,5 +1,6 @@
 #O(amount * coins) time | O(amount) space
 
+#Bottom up approach DP
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         dp = [amount + 1] * (amount + 1)
