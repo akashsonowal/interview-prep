@@ -120,3 +120,17 @@ Greedy Algorithms always does local optimization while dynamic programming is al
 ## Computer Networks
 - Socket Programming
 
+
+# Extra Notes
+
+Data Structures and Algorithms
+Research Papers Implementations
+SQL
+ML Coding
+
+PyTorch
+Tensorflow
+JAX
+PyTorch in production:
+
+Convert PyTorch to TorchScript models that can be run in C++ apps. Two methods to convert torch models to torchscript models: annotation and trace.
