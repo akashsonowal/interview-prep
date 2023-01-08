@@ -47,6 +47,7 @@ Example of dynamic programming is reinforcement learning (Bellman equation).
 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | LeetCode | Medium
 | [Word Break](https://leetcode.com/problems/word-break/) | LeetCode | Medium
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium
+| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | LeetCode | Medium
 
 ## 2-D Dynamic Programming
 
