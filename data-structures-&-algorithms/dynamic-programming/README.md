@@ -53,3 +53,4 @@ Example of dynamic programming is reinforcement learning (Bellman equation).
 
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium
