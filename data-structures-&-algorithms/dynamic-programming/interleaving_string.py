@@ -14,5 +14,10 @@ class Solution:
                     dp[i][j] = True
                 if j < len(s2) and s2[j] == s3[i + j] and dp[i][j + 1]:
                     dp[i][j] = True
+        print(dp)
 
         return dp[0][0]
+ 
+solution = Solution()
+
+assert solution(s1, s2, s3).isInterleave == True
