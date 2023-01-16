@@ -60,6 +60,7 @@ Example of dynamic programming is reinforcement learning (Bellman equation).
 | [Target Sum](https://leetcode.com/problems/target-sum/) | LeetCode | Medium
 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | LeetCode | Medium
 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | LeetCode | Hard
+| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | LeetCode | Hard
 
 
 
