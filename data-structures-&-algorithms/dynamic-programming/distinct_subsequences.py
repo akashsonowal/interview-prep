@@ -41,5 +41,5 @@ class Solution:
       
 s = "rabbbit", t = "rabbit"
 assert Solution.numDistinct_recursive(s, t) == 3
-assert Solution.numDistinct_iterativeive(s, t) == 3
+assert Solution.numDistinct_iterative(s, t) == 3
  
