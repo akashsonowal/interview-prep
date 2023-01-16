@@ -1,7 +1,6 @@
 # O(n * m) time | O(n * m) space
 
 class Solution:
-    
     @staticmethod
     def numDistinct_recursive(s: str, t: str) -> int:
         cache = {}
