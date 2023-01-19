@@ -32,7 +32,9 @@ class Solution:
         return dfs(0, 0)
     
     @staticmethod
-    def isMatch(s: str, p: str) -> bool:
+    def isMatch_bottom_up(s: str, p: str) -> bool:
+        """Bottom up Iterative"""
+        
         cache = [[False] * (len(p) + 1) for i in range(len(s) + 1)]
         cache[len(s)][len(p)] = True
 
