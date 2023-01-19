@@ -23,7 +23,7 @@ class Solution:
         return dfs(1, len(nums) - 2)
     
     @staticmethod
-    def maxCoins_iterative(self, nums: List[int]) -> int:
+    def maxCoins_iterative(nums: List[int]) -> int:
         cache = {}
         nums = [1] + nums + [1]
 
