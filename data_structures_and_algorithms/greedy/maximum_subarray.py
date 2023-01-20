@@ -13,4 +13,4 @@ class Solution:
             maxSum = max(currSum, maxSum)
         return maxSum
 
-assert Solution.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]) == 6
+assert Solution.maxSubArray([-2,1,-3,4,-1,2,1,-5,4]) == 6 #[4, -1, 2, 1]
