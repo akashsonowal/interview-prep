@@ -4,3 +4,4 @@
 | --- | --- | --- | --- |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium
 | [Jump Game](https://leetcode.com/problems/jump-game/) | LeetCode | Medium
+| [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | LeetCode | Medium
