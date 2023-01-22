@@ -1,6 +1,7 @@
 # O(n) time | O(1) space
 
 class Solution:
+    @staticmethod
     def canCompleteCircuit(gas: List[int], cost: List[int]) -> int:
         if sum(gas) < sum(cost):
             return -1
