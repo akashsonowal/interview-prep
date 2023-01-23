@@ -6,6 +6,7 @@
 | [Jump Game](https://leetcode.com/problems/jump-game/) | LeetCode | Medium
 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | LeetCode | Medium
 | [Gas Station](https://leetcode.com/problems/gas-station/) | LeetCode | Medium
+| [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | LeetCode | Medium
 
 
 
