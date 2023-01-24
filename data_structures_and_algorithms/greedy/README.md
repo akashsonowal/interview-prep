@@ -7,6 +7,7 @@
 | [Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | LeetCode | Medium
 | [Gas Station](https://leetcode.com/problems/gas-station/) | LeetCode | Medium
 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | LeetCode | Medium
+| [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | LeetCode | Medium
 
 
 
