@@ -1,4 +1,4 @@
-# Graph 
+# Graphs 
 
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
