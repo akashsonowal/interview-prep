@@ -22,7 +22,7 @@ def fib(n):
 ```
 reptitive calls leads to undesirable exponential runtime and memory usage. Recursive calls are stored on stack and there is limited allocated memory for a program.
 
-## Interation
+## Iteration
 
 There is no overwheming of call stack.
 
