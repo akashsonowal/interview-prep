@@ -6,10 +6,10 @@
 
 # Data Structures & Algorithms
 
-```
-# Algorithms
 
-## Recursion
+## Algorithms
+
+### Recursion
 
 ```
 def fib(n):
@@ -41,9 +41,6 @@ def fib(n):
       prev2 = prev
       prev = res
     return res
-```
-
-## Sorting
 ```
 
 ## Data Structures
