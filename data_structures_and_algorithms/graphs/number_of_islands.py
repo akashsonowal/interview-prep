@@ -1,6 +1,8 @@
-class Solution: #bfs is iteratove
+from collections import deque 
+
+class Solution: 
     @staticmethod
-    def numIslands_bfs(grid: List[List[str]]) -> int:
+    def numIslands_bfs(grid): #bfs is iteratove
         if not grid:
             return 0
         
@@ -34,10 +36,9 @@ class Solution: #bfs is iteratove
                     islands += 1
 
         return islands
- 
-class Solution: #dfs is recursive
+    
     @staticmethod
-    def numIslands_dfs(grid: List[List[str]]) -> int:
+    def numIslands_dfs(grid):
         if not grid or not grid[0]:
             return 0
 
@@ -65,5 +66,20 @@ class Solution: #dfs is recursive
                     islands += 1
                     dfs(r, c)
         return islands
+
+class Test:
+    grid = [
+              ["1","1","1","1","0"],
+              ["1","1","0","1","0"],
+              ["1","1","0","0","0"],
+              ["0","0","0","0","0"]
+            ]
+    @classmethod
+    def test_solution(cls):
+        assert Solution.numIslands_bfs(cls.grid) == 1
+        assert Solution.numIslands_dfs(cls.grid) == 1
+        print("Both Test success")
+
+Test.test_solution()
       
       
