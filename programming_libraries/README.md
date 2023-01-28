@@ -4,4 +4,4 @@
 
 ## TensorFlow
 
-## AJAX
+## JAX
