@@ -1,11 +1,12 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+    @staticmethod
+    def canFinish(numCourses: int, prerequisites: List[List[int]]) -> bool:
         preMap = {i: [] for i in range(numCourses)}
 
         for course, prerequisite in prerequisites:
             preMap[course].append(prerequisite)
 
-        visited = set()
+        visited = set() #dfs path
         def dfs(course):
             if course in visited:
                 return False
