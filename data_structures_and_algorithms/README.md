@@ -6,6 +6,15 @@
 
 # Data Structures & Algorithms
 
+## Basic Problem Solving Techniques
+- Time Complexity Analysis
+- Arrays
+- Bit Manipulation
+- Maths
+- Recursion & Sorting
+- Binary Search & 2 Pointers
+- Hashing
+- Pattern Matching Algorithms
 
 ## Algorithms
 
