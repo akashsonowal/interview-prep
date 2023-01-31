@@ -11,3 +11,4 @@
 
 | Problem Link | Platform | Level | Solution (in Python) Link |
 | --- | --- | --- | --- |
+| [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | LeetCode | Medium
