@@ -1,4 +1,5 @@
 class Solution:
+    @staticmethod
     def missingNumber(nums: List[int]) -> int:
         res = len(nums)
 
