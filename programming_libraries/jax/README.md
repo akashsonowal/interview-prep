@@ -10,3 +10,6 @@ JAX is a Python Library designed for high-performance numerical computing especi
 * Coax (Microsoft): Solve OpenAI gym environment.
 * Jgraph (Deep Mind): Lightweight library for deep neural networks.
 * Jax, M.D. (Microsoft): for differentiable physics.
+```
+pip install jax
+```
