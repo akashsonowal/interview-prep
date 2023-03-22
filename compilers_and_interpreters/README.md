@@ -6,3 +6,6 @@
 
 ## Hybrid Programming
 
+## Hybridizing the Sequential Class
+
+
