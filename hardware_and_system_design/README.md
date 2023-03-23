@@ -9,4 +9,20 @@
 
 ![computer](http://d2l.ai/_images/mobo-symbol.svg)
 
+Network, GPU, storage are connected to CPU by PCIe bus. It consists of mulitple lanes.The data transfer happens at 100 GB/s.
+
+## Memory
+DDR4 variety (20-25 GB/s per module) for CPU
+
+GPU Memory has even more bandwidth requirements. NVIDIA RTX 2080 Ti has 352-bit wide bus.
+
+Consumer grade NVIDIA RTX and Titan series use GDDR6 chips with over 500 GB/s aggregate bandwidth.
+
+High end server: Nvidia Volta V100.
+The key features are bandwidth and latency.
+
+## Storage
+HDD: High end 16TB with 9 platters.
+
+
 
