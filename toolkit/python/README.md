@@ -1,3 +1,4 @@
+
 # Python
 
 1. Lambda, map, filter, reduce
@@ -11,3 +12,14 @@ square_ld = lambda x: x * x
 for i in range(10):
   assert square_fn(i) == square_ld(i)
 ```
+
+
+3. Classes and Magic Methods
+
+
+
+## Citations
+
+All code examples are taken from Chip Huyen's [repo](https://github.com/chiphuyen/python-is-cool)
+
+
