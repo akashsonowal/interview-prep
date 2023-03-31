@@ -6,6 +6,8 @@
 
 ## [Data Engineering](https://github.com/akashsonowal/ml-engineering-foundations/tree/main/data_engineering)
 
+## [Infrastructure and Tooling](https://github.com/akashsonowal/ml-engineering-foundations/tree/main/infrastructure_and_tooling)
+
 
 ## Basic Problem Solving Techniques
 - Time Complexity Analysis
