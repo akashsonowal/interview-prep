@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/stars/akashsonowal/ml-engineering-foundations)
 ![](https://img.shields.io/github/license/akashsonowal/ml-engineering-foundations)
 
-## Data Engineering
+## [Data Engineering](https://github.com/akashsonowal/ml-engineering-foundations/tree/main/data_engineering)
 
 
 ## Basic Problem Solving Techniques
