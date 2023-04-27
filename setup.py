@@ -17,4 +17,4 @@ try:
   with open(HERE / "readme.md", encoding="utf-8") as f:
     long_description = "\n" + f.read()
 except FileNotFoundError:
-  long_description = DECRIPTION
+  long_description = DESCRIPTION
