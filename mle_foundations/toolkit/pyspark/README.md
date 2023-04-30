@@ -2,7 +2,7 @@
 
 Spark is usable in Java, Scala, Python and R.
 
-Sparke performance is 100x faster than MapReduce.
+Sparke performance is 100x faster than Hadoop MapReduce.
 
 Spark can use Data Sources (RDD / Non-RDD) like: 
 - HDFS
