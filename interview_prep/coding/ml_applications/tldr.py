@@ -23,7 +23,15 @@ def tldr(text_to_summarize):
     sentence_tf_idf_sums_matrix = tf_idf.sum(axis=1) # (num_sentences, 1)
     sentence_tf_idf_sums_array = np.asarray(sentence_tf_idf_sums_matrix).squeeze() # (num_sentences,)
 
-    
+    selected_sentence_indices = np.where(sentence_tf_idf_sums_array > 3)
+
+    summary_sentences = sentence_tokens[selected_sentence_indices]
+
+    summary = "".join(summary_sentences)
+    return summary
+
+
+
 
 
 
