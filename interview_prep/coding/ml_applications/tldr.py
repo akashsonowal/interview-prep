@@ -7,8 +7,11 @@
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np 
+
+import nltk
 from nltk import sent_tokenize
 from nltk.corpus import stopwords 
+nltk.download("stopwords")
 
 def tldr(text_to_summarize):
     sentence_tokens = np.array(sent_tokenize(text_to_summarize))
@@ -16,7 +19,7 @@ def tldr(text_to_summarize):
 
     tf_idf_vectorizer = TfidfVectorizer(stop_words=stop_word_set)
     tf_idf = tf_idf_vectorizer.fit_transform(sentence_tokens)
-    
+
     pass 
 
 if __name__ == "__main__":
