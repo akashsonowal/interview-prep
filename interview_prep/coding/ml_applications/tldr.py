@@ -30,12 +30,7 @@ def tldr(text_to_summarize):
     summary = "".join(summary_sentences)
     return summary
 
-
-
-
-
-
-    
-
 if __name__ == "__main__":
     text_to_summarize = "Hi I am Akash and I am an aspiring Research Engineer. I love to solve complex problems at scale using AI"
+    summary = tldr(text_to_summarize)
+    print("Summarized Text", summary)
