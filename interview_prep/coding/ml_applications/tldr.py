@@ -15,12 +15,19 @@ nltk.download("stopwords")
 
 def tldr(text_to_summarize):
     sentence_tokens = np.array(sent_tokenize(text_to_summarize))
-    stop_word_set = set(stopwords.words("english"))
+    stop_word_set = list(set(stopwords.words("english")))
 
     tf_idf_vectorizer = TfidfVectorizer(stop_words=stop_word_set)
-    tf_idf = tf_idf_vectorizer.fit_transform(sentence_tokens)
+    tf_idf = tf_idf_vectorizer.fit_transform(sentence_tokens) # (num_sentences, num_words_per_sentence) i.e, so no word vectors
 
-    pass 
+    sentence_tf_idf_sums_matrix = tf_idf.sum(axis=1) # (num_sentences, 1)
+    sentence_tf_idf_sums_array = np.asarray(sentence_tf_idf_sums_matrix).squeeze() # (num_sentences,)
+
+    
+
+
+
+    
 
 if __name__ == "__main__":
     text_to_summarize = "Hi I am Akash and I am an aspiring Research Engineer. I love to solve complex problems at scale using AI"
