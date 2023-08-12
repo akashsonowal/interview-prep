@@ -15,6 +15,7 @@ def tldr(text_to_summarize):
     stop_word_set = set(stopwords.words("english"))
 
     tf_idf_vectorizer = TfidfVectorizer(stop_words=stop_word_set)
+    tf_idf = tf_idf_vectorizer.fit_transform(sentence_tokens)
     
     pass 
 
