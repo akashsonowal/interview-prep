@@ -1,11 +1,20 @@
-from collections import queue
+def longest_parens(s):
+    stack = []
+    longest = 0
 
-def longest_wellformed_string(x):
-    res = 0
-    for i in range(len(x) // 2):
-        if x[i] == x[len(x) - i - 1]:
-            res += 1
-    return res
+    n = len(s)
+    stack.append(-1)
+
+    for i in range(n):
+        if s[i] == "(":
+            stack.append(i)
+        else:
+            stack_out = stack.pop()
+            if len(stack) == 0:
+                stack.append(i)
+            else:
+                longest = max(longest, i - stack_out)
+    return longest 
 
 if __name__ == "__main__":
-    assert longest_wellformed_string(")(())(") == 4
+    assert longest_parens(")(())(") == 4
