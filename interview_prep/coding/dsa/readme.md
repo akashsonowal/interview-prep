@@ -2,4 +2,4 @@
 
 # Linked Lists
 
-- [x] 2. Add Two Numbers [Amazon](https://leetcode.com/problems/add-two-numbers/description/) 
+- Add Two Numbers - [Amazon AS-1](https://leetcode.com/problems/add-two-numbers/description/) 
