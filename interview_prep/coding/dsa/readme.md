@@ -14,9 +14,9 @@
 - Backtracking
 - Hashing
 - Dynamic Programming
+- Bit Manipulation
+
+## Blind75 + Bonus MLE / AS Questions
   - Add Two Numbers - [Amazon AS-1](https://leetcode.com/problems/add-two-numbers/description/) 
   - Finding Pairs With a Certain Sum - [Amazon AS-1](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/)
- 
-## Blind75 + Bonus MLE / AS Questions
   - Longest Duplicate Substring - [Amazn AS-1](https://leetcode.com/problems/longest-duplicate-substring/)
-- Bit Manipulation
