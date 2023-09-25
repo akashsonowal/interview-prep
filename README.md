@@ -209,3 +209,12 @@ A cache which s distributed across two or more machines
 2. Model Hosting
 I Numba
 Ajust-in-time Python compller which resolves a subset of the python programming language down to machine code
+
+Metrics
+Lift, CTR
+
+Offline metrics: Precision, Recall, Logloss, Ranking Loss
+
+Online metrics: CTR, Watch Time, Conversion Rate
+
+![Alt text](image.png)
