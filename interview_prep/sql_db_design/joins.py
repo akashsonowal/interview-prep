@@ -32,3 +32,21 @@ SELECT
 FROM
     user u RIGHT JOIN posts p ON u.user_id = p.user_id
 
+## CTE and subqueries
+WITH user_post_count AS (
+    SELECT
+        users.user_id,
+        COUNT(post_id) AS num_posts
+    FROM 
+        users LEFT JOIN posts on users.user_id = posts.user_id
+    GROUP BY 
+        1 
+)
+
+SELECT 
+    num_posts,
+    COUNT(*) as num_users
+FROM 
+    user_post_count
+GROUP BY 
+    1
