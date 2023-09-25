@@ -4,7 +4,7 @@
 - Arrays & Stacks
 - LinkedLists
 - Trees
-- Queues
+- Heaps & Queues
 - Graphs
 
 ## Algorithms 
