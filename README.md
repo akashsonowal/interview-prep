@@ -6,6 +6,8 @@
 
 # Large Scale Machine Learning (with MLOps)
 
+For use cases in computer vision and NLP, features can be computed using a small number of data sources. However, for use cases with tabular data like fraud, recommender system, ETA, dynamic pricing, etc. features are computed from many sources,
+
 ## Data Support
 1. Data Ingestion
 - Streaming Ingestion: Click Stream (millions/sec)
