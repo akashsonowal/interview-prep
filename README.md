@@ -8,6 +8,59 @@ To check gpu utilisation
 
 !watch -n1 nvidia-smi
 
+𝗕𝗮𝘀𝗶𝗰𝘀
+- Univariate statistics - mean, median, mode
+- Standard deviation and variance
+- Covariance and correlation
+- Population and sample
+- Nominal, ordinal and continuous, discrete data types
+- Outlines
+- The Simpson’s Paradox
+- Selection Bias
+
+𝗛𝘆𝗽𝗼𝘁𝗵𝗲𝘀𝗶𝘀 𝗧𝗲𝘀𝘁𝗶𝗻𝗴
+- Hypothesis Statements
+- Z-Test
+- T-Test
+- T-Test for sample means
+- Z-Test for proportions
+- Paired and unpaired T-Tests
+- Variance test
+- ANOVA
+- Chi-Squared test
+- Goodness of Fit test for categorical data
+- Nominal, ordinal and continuous, discrete data types
+- Pairwise tests
+- T-Test assumptions
+- Non-parametric tests
+- Type 1 & 2 Errors
+
+𝗣𝗿𝗼𝗯𝗮𝗯𝗶𝗹𝗶𝘁𝘆 & 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀
+- The Bayes Theorem
+- Conditional probability
+- Normal distribution
+- Uniform distribution
+- Bernoulli distribution
+- Binomial distribution
+- Geometric distribution
+- Poisson distribution
+- Exponential distribution
+- Deriving the mean and variance of distributions
+- Central Limit Theorem
+- The Birthday problem
+- Card probability problems
+- Die roll problems
+
+𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴
+- OLS regression
+- Confidence vs prediction intervals
+- Logistic regression
+- Regression model assumptions
+- Model diagnostic checks
+- R-Square vs R-Square Adjusted
+- AIC, BIC, CP Statistics
+- Model Interpretation
+
 # Large Scale Machine Learning (with MLOps)
 
 For use cases in computer vision and NLP, features can be computed using a small number of data sources. However, for use cases with tabular data like fraud, recommender system, ETA, dynamic pricing, etc. features are computed from many sources,
