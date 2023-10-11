@@ -8,6 +8,24 @@ To check gpu utilisation
 
 !watch -n1 nvidia-smi
 
+𝟭. 𝗢𝗟𝗦
+↳ Price optimization
+↳ Customer lifetime value prediction
+↳ Demand forecasting
+↳ Factor analysis
+
+𝟮. 𝗟𝗼𝗴𝗶𝘀𝘁𝗶𝗰 𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻
+↳ Customer propensity model
+↳ Uplift modeling
+↳ Attribution modeling
+↳ Fraud modeling
+
+𝟯. 𝗞-𝗠𝗲𝗮𝗻𝘀
+↳ Customer segmentation
+↳ Time-series clustering
+↳ Market basket analysis
+↳ Product grouping
+
 𝗕𝗮𝘀𝗶𝗰𝘀
 - Univariate statistics - mean, median, mode
 - Standard deviation and variance
