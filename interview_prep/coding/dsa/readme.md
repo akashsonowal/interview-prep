@@ -1,6 +1,8 @@
 # Research Engineer / Applied Scientist / Data and Applied Scientist / ML Engineer / SDE 1
 
-## Data Structures 
+## Basics
+
+### Data Structures 
 - Arrays & Stacks
 - LinkedLists
 - Trees
