@@ -31,7 +31,7 @@ class DynamicArray:
             # soft delete the last element
             self.length -= 1
         # return the popped element
-        return self.arr[self.length]
+        return self.arr[self.length] # index starts from 0
 
     def resize(self) -> None:
         # Create new array of double capacity
