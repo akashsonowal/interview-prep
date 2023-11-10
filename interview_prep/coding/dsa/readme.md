@@ -3,6 +3,7 @@
 ## Basics
 
 | Topics |
+|--------|
 | Dynamic Array | 
 | Singly Linked Lists |
 | Double Ended Linked Lists |
