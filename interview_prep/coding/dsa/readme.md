@@ -8,6 +8,7 @@
 | Singly Linked Lists |
 | Double Ended Linked Lists |
 | Binary Search Tree |
+| Hash Table |
 
 ### Data Structures 
 - Arrays & Stacks
