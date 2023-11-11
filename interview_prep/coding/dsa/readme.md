@@ -7,6 +7,7 @@
 | Dynamic Array | 
 | Singly Linked Lists |
 | Double Ended Linked Lists |
+| Binary Search Tree |
 
 ### Data Structures 
 - Arrays & Stacks
