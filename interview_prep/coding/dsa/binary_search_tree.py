@@ -96,5 +96,4 @@ class TreeMap:
         if root != None:
             self.inorderTraversal(root.left, result)
             result.append(root.key)
-            self.inorderTraversal(root.right, result)
-            
+            self.inorderTraversal(root.right, result)        
