@@ -2,8 +2,8 @@
 
 ## Basics
 
-| Topics |
-|--------|
+| Topics | Implementation | 
+|--------|----------------|
 | Dynamic Array | 
 | Singly Linked Lists |
 | Double Ended Linked Lists |
