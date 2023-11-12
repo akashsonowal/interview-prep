@@ -3,6 +3,8 @@
 #     def __init__(self, key: int, value: str):
 #         self.key = key
 #         self.value = value
+
+# O(n2)
 class Solution:
     # Implementation of Insertion Sort
     def insertionSort(self, pairs: List[Pair]) -> List[List[Pair]]:
