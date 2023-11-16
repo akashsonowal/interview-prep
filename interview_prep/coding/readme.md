@@ -2,4 +2,4 @@
 
 | Company | Problem | Complexity | Solution Link|
 
-| Meta |Combination | O(nCk) time and space |   
+| Meta |Combination | O(nCk) time and space | ![Code](https://github.com/akashsonowal/interview-prep/blob/main/interview_prep/coding/combination.py)  
