@@ -27,7 +27,7 @@
   2. [Uber] Build a real-time ETA model 
   3. [Amazon] Build a recommender system for product search
 
-Data Scientist
+## Data Scientist
 - Coding
   - DSA (if Full Stack i.e., deploy models in production)
   - Data Manipulation  (SQL and Pandas)
@@ -37,6 +37,8 @@ Data Scientist
 - ML & MLOps
 - Product Sense & AB Testing 
 - Causal Inference
+
+============================================================
 
 To check gpu utilisation
 
