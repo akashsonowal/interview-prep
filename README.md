@@ -4,6 +4,40 @@
 ![](https://img.shields.io/github/stars/akashsonowal/ml-engineering-foundations)
 ![](https://img.shields.io/github/license/akashsonowal/ml-engineering-foundations)
 
+## Software Engineer (ML)
+- Coding
+  - DSA (LeetCode)
+  - ML Algos from scratch
+    1. [Uber] Write an AUC from scratch using vanilla Python
+    2. [Google] Write the K-Means algorithm using Numpy only 
+- ML Theory (Breadth) - General Understanding
+  1. [Amazon] Explain how the cross-validation work
+  2. [Etsy] How do you handle imbalanced labels in classification models
+  3. [McKinsey] What is the variance-bias trade-off?
+- ML Algorithms (Depth) - Depth in 1-2 algorithms
+  1. [Amazon] What is the pseudocode of the Random Forest model?
+  2. [Amazon] What is the variance and bias of the Random Forest model?
+  3. [Amazon] How is the Random Forest different from Gradient Boosted Trees?
+- Applied ML / Business Case
+  1. [Google] Given a dataset that contains purchase history on PlayStore, how would you build a propensity score model?
+  2. [PayPal] How would you build a fraud model without labels?
+  3. [Apple] How would you identify meaningful segmentation?
+- ML System Design
+  1. [Google] Build a real-time translation system 
+  2. [Uber] Build a real-time ETA model 
+  3. [Amazon] Build a recommender system for product search
+
+Data Scientist
+- Coding
+  - DSA (if Full Stack i.e., deploy models in production)
+  - Data Manipulation  (SQL and Pandas)
+  - Statistical Coding
+  - ML Functions (From Scratch)
+- Applied Statistics
+- ML & MLOps
+- Product Sense & AB Testing 
+- Causal Inference
+
 To check gpu utilisation
 
 !watch -n1 nvidia-smi
