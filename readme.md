@@ -10,10 +10,6 @@
 ## Applied Statistics (w/ Probability)
 1. Make the shortest and most concise notes
 2. Top Questions
-  
-## ML and MLOps
-1. ML Crash Course
-2. Large Scale ML
 
 ## Product Sense and AB Testing
 1. Make the shortest and most concise notes
@@ -23,6 +19,10 @@
 1. Make the shortest and most concise notes
 2. Top Questions
 
+## ML and MLOps
+1. ML Crash Course
+2. Large Scale ML
+   
 ## System Design
 1. ML System Design
 2. Large Scale System Design (System Expert Course)
