@@ -1,4 +1,4 @@
-# Roadmap to Cracking MAANG Interviews
+# Cracking SWE (ML) / DS MAANG Interviews
 
 ## Coding
 1. DSA
