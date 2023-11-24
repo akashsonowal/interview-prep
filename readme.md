@@ -1,4 +1,4 @@
-# Cracking SWE (ML) / DS MAANG Interviews
+# Crack SWE (ML) / DS MAANG Interviews
 
 ## Coding
 1. DSA
