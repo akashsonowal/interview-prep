@@ -1,5 +1,7 @@
 # Crack SWE (ML) / DS MAANG Interviews
 
+Python, Golang
+
 ## Coding
 1. DSA
 2. Data Processing and Manipulation (w/Python and SQL)
