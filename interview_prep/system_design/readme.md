@@ -42,3 +42,7 @@ Bandwidth Cheat Sheet
 => ~50-100MB/s
 « Within a data center
 => ~5GB/s
+
+## Communication
+
+## Diagramming
